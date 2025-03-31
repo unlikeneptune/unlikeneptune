@@ -12,6 +12,6 @@
 <p><a target="_blank" href="https://twitter.com/tkiiy0" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/ahmadthoriqh" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/amdthfz" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=unlike neptune&show_icons=true&locale=en" alt="unlike neptune" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unlike neptune&" alt="unlike neptune" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=unlike neptune&show_icons=true&locale=en&layout=compact" alt="unlike neptune" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=unlikeneptune&show_icons=true&locale=en" alt="unlikeneptune" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unlikeneptune&" alt="unlikeneptune" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=unlikeneptune&show_icons=true&locale=en&layout=compact" alt="unlikeneptune" /></p>
