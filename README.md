@@ -1,4 +1,4 @@
-# 💫 Hi, World! I'm Thoriq, a cybersecurity enthusiast
+# 💫 Code executed! Hello, coders. I'm Thoriq, an IT student and a cybersecurity enthusiast
 👨‍🎓 Currently studying at Brawijaya University<br>🚩 Diving into cybersecurity through CTFs 
 
 
