@@ -1,6 +1,5 @@
 # 💫 Hi, World! I'm Thoriq, a cybersecurity enthusiast
-👨‍🎓 Currently studying at Brawijaya University\n
-🚩 Diving into cybersecurity through CTFs 
+👨‍🎓 Currently studying at Brawijaya University<br>🚩 Diving into cybersecurity through CTFs 
 
 
 ## 🌐 Socials:
@@ -16,4 +15,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=unlikeneptune&icon=0&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
