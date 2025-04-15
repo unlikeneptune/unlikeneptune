@@ -1,4 +1,4 @@
-<h1>💫 Hello, coders! I'm Thoriq, an IT student and a cybersecurity enthusiast </h1>
+<h1>💫 Hey, coders! I'm Thoriq, an IT student and a cybersecurity enthusiast </h1>
 <p>👨‍🎓 Currently studying at Brawijaya University<br>🚩 Diving into cybersecurity through CTFs </p>
 <h2>🚀 My tech stack</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
